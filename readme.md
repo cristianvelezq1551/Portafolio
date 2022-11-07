@@ -14,8 +14,7 @@ To build and run this project:
 
 # REVIEW
 
-| [**Movie 1**](
-    https://imgbox.com/lQwx7qBj)          | [**Movie 2**](https://imgbox.com/HS9dlXfz)          |
+| [**Movie 1**](https://imgbox.com/lQwx7qBj)          | [**Movie 2**](https://imgbox.com/HS9dlXfz)          |
 | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
 | <img src="https://imgbox.com/lQwx7qBj" width="250"> | <img src="https://imgbox.com/HS9dlXfz" width="250"> |
 
