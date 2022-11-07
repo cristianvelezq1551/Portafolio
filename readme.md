@@ -11,21 +11,20 @@ To build and run this project:
 
 (Please note that a Mac with XCode is required to build for iOS)
 
-
 # REVIEW
 
 | [**Movie 1**](https://imgbox.com/lQwx7qBj)          | [**Movie 2**](https://imgbox.com/HS9dlXfz)          |
-| ----------------------------------------------------------------- | ----------------------------------------------------------------- |
+| --------------------------------------------------- | --------------------------------------------------- |
 | <img src="https://imgbox.com/lQwx7qBj" width="250"> | <img src="https://imgbox.com/HS9dlXfz" width="250"> |
 
-| [**Splash Vet**](https://imgbox.com/IL7FSIjx)          | [**Vet**](https://imgbox.com/ctYfvBje)          |
-| ----------------------------------------------------------------- | ----------------------------------------------------------------- |
-| <img src="https://imgbox.com/IL7FSIjx" width="250"> | <img src="https://imgbox.com/ctYfvBje" width="250"> |
+| [**Splash Vet**](https://images2.imgbox.com/4c/41/IL7FSIjx_o.gif)       | [**Vet**](https://imgbox.com/ctYfvBje)              |
+| ----------------------------------------------------------------------- | --------------------------------------------------- |
+| <img src="https://images2.imgbox.com/4c/41/IL7FSIjx_o.gif" width="250"> | <img src="https://imgbox.com/ctYfvBje" width="250"> |
 
-| [**Mega Mercado**](https://imgbox.com/rFVMi8bU)          | [**Login**](https://imgbox.com/JQambEH4)          |
-| ----------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [**Mega Mercado**](https://imgbox.com/rFVMi8bU)     | [**Login**](https://imgbox.com/JQambEH4)            |
+| --------------------------------------------------- | --------------------------------------------------- |
 | <img src="https://imgbox.com/rFVMi8bU" width="250"> | <img src="https://imgbox.com/JQambEH4" width="250"> |
 
-| [**Drawer**](https://imgbox.com/YRCNcNa6)          | [**GridView**](https://imgbox.com/TSNSMH6Y)          |
-| ----------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [**Drawer**](https://imgbox.com/YRCNcNa6)           | [**GridView**](https://imgbox.com/TSNSMH6Y)         |
+| --------------------------------------------------- | --------------------------------------------------- |
 | <img src="https://imgbox.com/YRCNcNa6" width="250"> | <img src="https://imgbox.com/TSNSMH6Y" width="250"> |
